@@ -1,0 +1,19 @@
+# Task 1 – dataset creation
+requests
+pandas
+numpy
+pyarrow
+
+# Task 2 – zero-shot classification
+transformers
+torch
+
+# Task 3 – semantic search
+sentence-transformers
+faiss-cpu
+scikit-learn
+
+# Notebooks and charts
+matplotlib
+jupyter
+ipywidgets

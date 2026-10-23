@@ -1,0 +1,5 @@
+query,top10_hits_tfidf,median_score_tfidf,max_score_tfidf,top10_hits_sbert,median_score_sbert,max_score_sbert
+brunch spot with outdoor seating in Fitzroy,3,0.3996302,0.50378925,3,0.41400504,0.5129281
+family-friendly Italian restaurant,10,0.57167536,0.7851916,10,0.6482629,0.67867804
+specialty coffee near the CBD,10,0.60356617,0.60356617,10,0.54508877,0.5970808
+vegan dessert café,0,0.36405373,0.428645,10,0.5256617,0.5790776

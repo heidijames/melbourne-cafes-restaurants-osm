@@ -1,0 +1,6 @@
+{
+  "python": "3.11.13",
+  "platform": "Linux-6.6.56+-x86_64-with-glibc2.35",
+  "faiss": "1.7.4",
+  "sentence_transformers": "4.1.0"
+}

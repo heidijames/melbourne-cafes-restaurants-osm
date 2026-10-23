@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Editor / IDE settings
+.spyproject/
+.vscode/
+.idea/
+
+# FAISS indexes (rebuilt by the Task 3 notebook)
+*.idx
+
+# Extra outputs from Task1_05 (regenerated on each run)
+Data/Interim/melbourne_cafes_restaurants_slim.csv
+Data/Interim/melbourne_cafes_restaurants_exploded_cuisine.csv
+Data/Interim/melbourne_profile.txt
+
+# OS files
+.DS_Store
+Thumbs.db
